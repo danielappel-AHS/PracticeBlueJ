@@ -17,6 +17,7 @@ public class MyClass
     {
         // initialise instance variables
         x = 0;
+        //Newly added via bluej...pushed to GIT
     }
 
     /**
